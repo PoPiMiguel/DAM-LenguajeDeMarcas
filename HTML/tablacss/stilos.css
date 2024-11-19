@@ -1,0 +1,22 @@
+body{
+	background-color: lightblue;
+	}
+h1{
+	/*Esto es un comentario*/color:white;
+	text-align: center;
+	}
+h3{
+	color: #dca2ff;
+	text-align: right;
+	}
+#p1{
+	font-family:Verdana;
+	font-size:15px;
+	color: yellow;
+	text-align: left;
+	}
+#p2{
+	color: green;
+	size: 50px;
+	text-align: right;
+}
